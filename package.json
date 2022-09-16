@@ -1,0 +1,32 @@
+{
+  "name": "org-for-each",
+  "version": "0.0.1",
+  "description": "Perform an operation for each repo in an organization.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfram77/org-for-each.git"
+  },
+  "keywords": [
+    "org",
+    "for",
+    "each",
+    "git",
+    "github",
+    "api"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfram77/org-for-each/issues"
+  },
+  "homepage": "https://github.com/wolfram77/org-for-each#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.4",
+    "extra-fs": "^3.2.10"
+  }
+}
