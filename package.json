@@ -1,6 +1,6 @@
 {
   "name": "org-for-each",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Perform an operation for each repo in an organization.",
   "private": true,
   "main": "index.js",
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/wolfram77/org-for-each#readme",
   "dependencies": {
     "@octokit/rest": "^19.0.4",
+    "extra-child-process": "^1.1.10",
     "extra-fs": "^3.2.10"
   }
 }
