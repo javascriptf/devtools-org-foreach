@@ -1,6 +1,6 @@
 {
   "name": "org-for-each",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Perform an operation for each repo in an organization.",
   "private": true,
   "main": "index.js",
